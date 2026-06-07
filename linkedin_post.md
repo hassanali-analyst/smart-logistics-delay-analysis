@@ -55,12 +55,6 @@ Feedback from data professionals is very welcome 🙏
 
 #DataAnalytics #DataAnalyst #CareerChange #SQL #Python #PowerBI #OpenToWork
 
----
 
-## Posting tips
 
-1. **Attach the traffic chart** (`02_delay_by_traffic.png`) — posts with one strong image get more views.
-2. Put the **GitHub link in the first comment** if reach drops (LinkedIn sometimes shows link-posts to fewer people) — or keep it in the post; test both.
-3. Post on a **weekday morning** (Sun–Wed in Saudi Arabia work week).
-4. Reply to every comment in the first hour — it boosts visibility.
-5. Tag your course or 1–2 relevant people if appropriate. Don't over-tag.
+
